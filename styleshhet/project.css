@@ -1,0 +1,49 @@
+.project1 {
+    width: 326px;
+    height: 426px;
+    background-color: white;
+    border: 2px solid rgb(72, 66, 66);
+    border-radius: 64px;
+    margin: 4vw 4vw;
+    padding: 2vw;
+}
+
+.project1 div img {
+  width:100%;
+  height: 305px;
+  border-radius: 64px;
+  
+}
+
+.live{
+    width: 32%;
+    border: 2px solid #858181;
+    border-radius: 7px;
+    color: black;
+    padding: 7px 12px;
+    margin-top: 17px;
+    display: inline-block;
+    text-align: center;
+}
+
+.git{
+    width: 32%;
+    border: 2px solid #858181;
+    border-radius: 7px;
+    color: black;
+    padding: 7px 12px;
+    margin-top: 17px;
+    display: inline-block;
+    text-align: center;  
+}
+.projectCatelog{
+    display: flex;
+    margin-left:10px;
+}
+
+
+header div{
+    font-size: 3vw;
+    text-align: center;
+    margin-left: -6px;
+}
